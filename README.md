@@ -46,8 +46,4 @@ This program simplifies the process of generating part numbers, managing related
 
 From there, you’re ready to begin creating CD numbers.
 
-## Internal Use Only
-
-This application is intended for internal use by Quality Cases & Containers and includes hardcoded credentials and API keys specific to our environment.
-
 ---
