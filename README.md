@@ -38,7 +38,7 @@ This program simplifies the process of generating part numbers, managing related
 
 ## Getting Started
 
-1. **Download the latest version** from the [Releases](https://github.com/YOUR-USERNAME/cd-number-wizard/releases) page.
+1. **Download the latest version** from the [Releases](https://github.com/QCC-Daniel/cd-number-wizard/releases) page.
 2. **Extract the zip** and run `cdstart.exe`.
 3. On first launch, you may be prompted to:
    - Select the correct drive for `PRINTS/CD NUMBERS`
